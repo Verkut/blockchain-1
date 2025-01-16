@@ -14,6 +14,10 @@ import (
 	"time"
 )
 
+/** FIRST COMMENT */
+/** SECOND COMMENT */
+/** THREE COMMENT */
+
 type BlockchainServer struct {
 	bc *blockchain.Blockchain
 }
