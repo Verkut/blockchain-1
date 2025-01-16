@@ -15,6 +15,7 @@ import (
 )
 
 /** FIRST COMMENT */
+/** SECOND COMMENT AND TAG */
 
 type BlockchainServer struct {
 	bc *blockchain.Blockchain
