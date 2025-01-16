@@ -15,6 +15,13 @@ import (
 )
 
 /** FIRST COMMENT */
+/** SECOND COMMENT AND TAG */
+/** !! */
+
+/** SIX COMMENT */
+/** SEVEN COMMENT */
+
+/** SEC-3 - 1 */
 
 type BlockchainServer struct {
 	bc *blockchain.Blockchain
